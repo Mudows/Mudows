@@ -1,10 +1,10 @@
 <h1 align="left">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego M. Cezar</h1>
 <img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=omni" alt="Diego's stats"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blue" alt="Profile views" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
 
-- 🖥 Independent Game Developer;
+- 👨‍💻 Independent Game Developer;
 
-- 📗 I’m currently studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
+- 🤓 I’m currently studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
 
 - 🔎 You can find me on <a href="https://www.linkedin.com/in/diego-moraes-cezar-2b1b8076/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Diego%20M.%20Cezar-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/>
 
