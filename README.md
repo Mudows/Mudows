@@ -15,6 +15,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![GD Script](https://img.shields.io/badge/-GD%20Script-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-EC6231?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
