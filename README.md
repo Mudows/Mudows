@@ -1,5 +1,5 @@
-<h1 align="left">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego M. Cezar</h1>
-<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=omni" alt="Diego's stats"/>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! I'm Diego.</h1>
+<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=omni&custom_title=My GitHub Stats" alt="Diego's stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
 
 - 👨‍💻 Independent Game Developer;
@@ -26,7 +26,7 @@
 <br><br><br><br>
 ## 🎮 &nbsp;Game Engines
 
-![AGK](https://img.shields.io/badge/-AppGameKit-800000?style=for-the-badge&logo=agk&logoColor=white)&nbsp;
+![AGK](https://img.shields.io/badge/-AGK%20Classic-800000?style=for-the-badge&logo=agk&logoColor=white)&nbsp;
 ![Construct 2](https://img.shields.io/badge/-Construct%202-DCDCDC?style=for-the-badge&logo=construct&logoColor=white)&nbsp;
 
 ## 🛠 &nbsp;Other Tech Skills
