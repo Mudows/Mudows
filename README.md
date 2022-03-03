@@ -6,7 +6,7 @@
 
 - 🤓 I’m currently studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
 
-- 🔎 You can find me on <a href="https://www.linkedin.com/in/diego-moraes-cezar-2b1b8076/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Diego%20M.%20Cezar-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/>
+- 🔎 You can find me on <a href="https://www.linkedin.com/in/diego-moraes-cezar-2b1b8076/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/>
 
 <br>
 
