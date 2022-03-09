@@ -2,9 +2,9 @@
 <img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=omni&custom_title=My GitHub Stats" alt="Diego's stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
 
-- 👨‍💻 Independent Game Developer;
+- 👨‍💻 I'm a independent Game Developer;
 
-- 🤓 I’m currently studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
+- 🤓 Currently studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
 
 - 🔎 You can find me on <a href="https://www.linkedin.com/in/diego-moraes-cezar-2b1b8076/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/>
 
@@ -20,10 +20,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-EC6231?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp; -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; -->
-<!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp; -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
 <br><br><br><br>
+<!-- ## 🎮 &nbsp;Libraries & Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=gray)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; -->
+  
 ## 🎮 &nbsp;Game Engines
 
 ![AGK](https://img.shields.io/badge/-AGK%20Classic-800000?style=for-the-badge&logo=agk&logoColor=white)&nbsp;
@@ -34,5 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; -->
 
 <br>
