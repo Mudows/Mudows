@@ -23,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 <br><br><br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mudows&theme=radical" alt="Wakatime"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Mudows&theme=radical" alt="Wakatime"/>
 <br><br><br><br><br>
 
 <!-- ## 🎮 &nbsp;Libraries & Frameworks
