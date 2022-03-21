@@ -22,7 +22,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-<br><br>
+<br><br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mudows&theme=radical" alt="Wakatime"/>
 <br><br><br><br><br>
 
