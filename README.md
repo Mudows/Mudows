@@ -1,5 +1,5 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! I'm Diego.</h1>
-<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=omni&custom_title=My GitHub Stats" alt="Diego's stats"/>
+<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=radical&custom_title=My GitHub Stats" alt="Diego's stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
 
 - 👨‍💻 I'm a independent Game Developer;
@@ -11,7 +11,7 @@
 <br>
 
 ## 💻 &nbsp;Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&theme=omni" alt="Diego's most used languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&theme=radical&layout=compact" alt="Diego's most used languages"/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![GD Script](https://img.shields.io/badge/-GD%20Script-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
@@ -22,7 +22,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-<br><br><br><br>
+<br><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mudows&theme=radical" alt="Wakatime"/>
+<br><br><br><br><br>
+
 <!-- ## 🎮 &nbsp;Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=gray)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; -->
