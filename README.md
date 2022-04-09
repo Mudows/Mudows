@@ -10,7 +10,7 @@
 
 <br>
 
-## 💻 &nbsp;Languages
+## 💻 &nbsp;Languages & Frameworks
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&theme=radical&layout=compact" alt="Diego's most used languages"/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -21,10 +21,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 <br><br><br>
+<!-- <br><br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Mudows&theme=radical" alt="Wakatime"/>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br> -->
 
 <!-- ## 🎮 &nbsp;Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=gray)&nbsp;
