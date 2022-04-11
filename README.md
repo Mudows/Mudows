@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+<!-- ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp; -->
 <br><br><br>
 <!-- <br><br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Mudows&theme=radical" alt="Wakatime"/>
