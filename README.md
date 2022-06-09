@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! I'm Diego.</h1>
+<h1 align="left">Hi! I'm Diego. Welcome to my Hub.</h1>
 <img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=radical&custom_title=My GitHub Stats" alt="Diego's stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
 
@@ -21,14 +21,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-<!-- ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp; -->
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=gray)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 <br><br><br>
 <!-- <br><br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Mudows&theme=radical" alt="Wakatime"/>
 <br><br><br><br><br><br><br><br><br><br><br> -->
 
 <!-- ## 🎮 &nbsp;Libraries & Frameworks
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=gray)&nbsp;
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; -->
   
 ## 🎮 &nbsp;Game Engines
