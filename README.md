@@ -4,19 +4,18 @@
 
 <!-- https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=radical&custom_title=My GitHub Stats -->
 
-- 👨‍💻 I'm a Front-end web developer;
+👨‍💻 I'm a Front-end web developer;
 
-- 🤓 Studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
+🤓 Studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
 
-- 😄 I also develop games for fun;
+😄 I also develop games for fun;
 
-- 🌱 I'm currently learning React Context API;
+🌱 I'm currently learning React Context API;
 
-- 🤖 All of my projects are available at [my GitHub page](https://mudows.github.io/);
+🤖 All of my projects are available at [my GitHub page](https://mudows.github.io/);
 
-- 🔎 You can find me on <a href="https://www.linkedin.com/in/diego-moraes-cezar-2b1b8076/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/>
+🔎 You can find me on <a href="https://www.linkedin.com/in/diego-moraes-cezar-2b1b8076/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/>
 
-<br>
 
 ## 💻 &nbsp;My Skillset
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&theme=radical&layout=compact" alt="Diego's most used languages"/> -->
