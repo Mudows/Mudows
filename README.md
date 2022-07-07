@@ -34,13 +34,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![GD Script](https://img.shields.io/badge/-GD%20Script-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![AGK](https://img.shields.io/badge/-AGK%20Classic-800000?style=for-the-badge&logo=agk&logoColor=white)&nbsp;
 ![Construct 2](https://img.shields.io/badge/-Construct%202-DCDCDC?style=for-the-badge&logo=construct&logoColor=white)&nbsp;
-<br><br><br>
 <!-- <br><br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Mudows&theme=radical" alt="Wakatime"/>
 <br><br><br><br><br><br><br><br><br><br><br> -->
-
-
-<br>
