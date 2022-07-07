@@ -29,6 +29,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![React Router](https://img.shields.io/badge/react%20router-%2320232a.svg?style=for-the-badge&logo=react-router&logoColor=%23CA4245)&nbsp;
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-%2320232a?style=for-the-badge&logo=testing-library&logoColor=%23E33332)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -36,6 +37,7 @@
 ![GD Script](https://img.shields.io/badge/-GD%20Script-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
 ![AGK](https://img.shields.io/badge/-AGK%20Classic-800000?style=for-the-badge&logo=agk&logoColor=white)&nbsp;
 ![Construct 2](https://img.shields.io/badge/-Construct%202-DCDCDC?style=for-the-badge&logo=construct&logoColor=white)&nbsp;
+
 <!-- <br><br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Mudows&theme=radical" alt="Wakatime"/>
 <br><br><br><br><br><br><br><br><br><br><br> -->
