@@ -19,7 +19,7 @@
 
 ## 💻 &nbsp;My Skillset
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&theme=radical&layout=compact" alt="Diego's most used languages"/> -->
-
+<!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -36,7 +36,48 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![GD Script](https://img.shields.io/badge/-GD%20Script-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
 ![AGK](https://img.shields.io/badge/-AGK%20Classic-800000?style=for-the-badge&logo=agk&logoColor=white)&nbsp;
-![Construct 2](https://img.shields.io/badge/-Construct%202-DCDCDC?style=for-the-badge&logo=construct&logoColor=white)&nbsp;
+![Construct 2](https://img.shields.io/badge/-Construct%202-DCDCDC?style=for-the-badge&logo=construct&logoColor=white)&nbsp; -->
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+      </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+  </tr>
+</table>
 
 <!-- <br><br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Mudows&theme=radical" alt="Wakatime"/>
