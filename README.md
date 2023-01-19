@@ -4,13 +4,13 @@
 
 <!-- https://github-readme-stats.vercel.app/api?username=Mudows&show_icons=true&count_private=true&theme=radical&custom_title=My GitHub Stats -->
 
-👨‍💻 I'm a Front-end web developer;
+👨‍💻 I'm a Front-end web developer and indie Game Designer;
+
+:space_invader: I work as a Game Design Intructor at Senac RJ;
 
 🤓 Studying Full-stack Web Development at [Trybe](https://www.betrybe.com/);
 
-😄 I also develop games for fun;
-
-🌱 I'm currently learning React Context API;
+🌱 I'm currently studying Python on back-end web dev;
 
 🤖 All of my projects are available at [my GitHub page](https://mudows.github.io/);
 
