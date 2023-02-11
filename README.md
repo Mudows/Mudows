@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=200&color=080808&center=true&multiline=true&repeat=false&width=435&height=100&lines=Game+Designer;Front-End+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=080808&center=true&multiline=true&repeat=true&width=435&height=100&lines=Game+Designer;Front-End+Web+Developer" alt="Typing SVG" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudows" alt="mudows" /></a> </p>
