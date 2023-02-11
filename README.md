@@ -1,23 +1,30 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Game Designer / Front-end Web Dev from Brasil</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&size=24&duration=2000&pause=100&color=080808&center=true&multiline=true&repeat=false&width=435&height=100&lines=Game+Designer;Front-End+Web+Developer" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudows" alt="mudows" /></a> </p>
 
 <img align="right" width="450em" src="https://metrics.lecoq.io/mudows?template=terminal&base.metadata=0&languages=1&introduction=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FSao_Paulo" alt="Diego's stats"/>
 
 
-:space_invader: I work as a Game Design Instructor at Senac RJ;
+💼 I work as a Game Design Instructor at Senac RJ;
 
-🔭 I’m currently working on <a href="https://serratroz-game-studio.itch.io/earth-defense" target="_blank" rel="noreferrer">Earth Defense</a>
+🕹️ Current game project: <a href="https://serratroz-game-studio.itch.io/earth-defense" target="_blank" rel="noreferrer">Earth Defense</a>
 
-🌱 I'm currently studying Python on back-end web dev;
+💻 Current web project: <em>None</em>
 
-🤖 All of my projects are available at [my GitHub page](https://mudows.github.io/);
+📚 Currently learning <em>Python</em> and <em>Lua</em>
 
-🔎 You can find me on <a href="https://www.linkedin.com/in/diego-moraes-cezar-2b1b8076/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/> <a href="https://discord.gg/Mudows#4861" target="_blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="discord"/>
+📂 All of my projects are available at <a href="https://mudows.github.io/" target="_blank" rel="noreferrer">my GitHub page.</a>;
+
+🔎 You can find me on <a href="https://www.linkedin.com/in/dmcezar" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/> <a href="https://discord.gg/Mudows#4861" target="_blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="discord"/>
 
 
-## 💻 &nbsp;Languages and Tools
+## 🧰 &nbsp;Languages and Tools
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
