@@ -13,7 +13,7 @@
 
 🕹️ Current game project: <a href="https://serratroz-game-studio.itch.io/earth-defense" target="_blank" rel="noreferrer">Earth Defense</a>
 
-💻 Current web project: <em>None</em>
+💻 Current web project: <em>fcc: Markdown Previewer</em>
 
 📚 Currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/></a> and <a href="https://love2d.org/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/-LÖVE-eea5a7?style=for-the-badge&logo=Love&logoColor=white" alt="LÖVE"/></a>
 
