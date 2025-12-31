@@ -2,20 +2,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=080808&center=true&multiline=true&repeat=true&width=435&height=70&lines=Game+Designer;Front-End+Web+Developer" alt="Typing SVG" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mudows&color=blueviolet&style=flat-square" alt="Profile views" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudows" alt="mudows" /></a> </p>
-
-<img align="right" width="450em" src="https://metrics.lecoq.io/mudows?template=terminal&base.metadata=0&languages=1&introduction=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FSao_Paulo" alt="Diego's stats"/>
 
 🇧🇷 I'm from Brasil
 
 💼 I work as a Game Design Instructor at Senac RJ;
 
-🕹️ Current game project: <a href="https://serratroz-game-studio.itch.io/earth-defense" target="_blank" rel="noreferrer">Earth Defense</a>
+🕹️ Current game project: <em>NONE</em>
 
-💻 Current web project: <em>fcc: Markdown Previewer</em>
+💻 Current web project: <em>Terras Partidas RPG Website</em>
 
-📚 Currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/></a> and <a href="https://love2d.org/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/-LÖVE-eea5a7?style=for-the-badge&logo=Love&logoColor=white" alt="LÖVE"/></a>
+📚 Currently (re)learning <img align="center" src="https://img.shields.io/badge/C%23-7355dd?style=for-the-badge" alt="C#"/>
+
+
 
 📂 All of my projects are available at <a href="https://mudows.github.io/" target="_blank" rel="noreferrer">my GitHub page.</a>;
 
