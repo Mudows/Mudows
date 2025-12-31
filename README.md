@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=080808&center=true&multiline=true&repeat=true&width=435&height=70&lines=Game+Designer;Front-End+Web+Developer" alt="Typing SVG" />
 </p>
 
-<table width="100%" align="center" content="top">
+<table width="100%" border=0 align="center" content="top" borde>
   <tr>
     <td width="55%" valign="top">
       <h3 align="center">About Me</h3>
