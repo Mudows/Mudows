@@ -11,9 +11,7 @@
 
 💼 I work as a Game Design Instructor at Senac RJ;
 
-🕹️ Current game project: <em>NONE</em>
-
-💻 Current web project: <em>Terras Partidas RPG Website</em>
+💡 Current project: <em>Habit Tracker Dashboard</em>
 
 📚 Currently learning: <em>Hugo</em>
 
