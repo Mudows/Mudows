@@ -5,20 +5,31 @@
 
 <table width="100%" border=0 align="center" content="top" borde>
   <tr>
-    <td width="55%" valign="top">
-      <h3 align="center">About Me</h3>
-      <p align="center"><em>I'm from Brasil, and a Game Design Instructor at Senac RJ</em></p>
+    <td width="55%" valign="top" align="center">
 
-💡 Current project: <em><a href="https://github.com/Mudows/habit-tracker/tree/main" target="_blank" rel="noreferrer">Habit Tracker Dashboard</a></em>
+### About Me
+_I'm from Brazil, and I'm a Game Design instructor at Senac RJ. I have a Associate Degree in Digital Games from Anhanguera, and I'm currently pursuing a postgraduate degree in Business Intelligence with Big Data and AI, and a second postgraduate degree in full-stack development, both at CENES._
 
-📚 Currently learning: <img align="center" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="hugo"/> and <img align="center" src="https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=FFD43B" alt="pytest"/>
+### 💡 Current projects 💡
+<a href="https://github.com/Mudows/habit-tracker/tree/main" target="_blank" rel="noreferrer">
+  
+![Static Badge](https://img.shields.io/badge/Habit_Tracker_Dashboard-In_Development-yellow?style=for-the-badge)
 
-📂 All of my projects are available at <a href="https://mudows.github.io/" target="_blank" rel="noreferrer">my GitHub page.</a>
+</a>
 
-🔎 You can find me on
-<a href="https://www.linkedin.com/in/dmcezar" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://discord.gg/Mudows#4861" target="_blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="discord"/></a>
-<a href="https://www.instagram.com/diego.mcezar/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="discord"/></a>
+ ### 📚 Currently learning 📚
+<img align="center" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="hugo"/> <img align="center" src="https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=FFD43B" alt="pytest"/>
+
+### 📂 All of my projects are available at 📂
+<a href="https://mudows.github.io/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/My%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="github"/></a>
+
+### 🔎 You can find me on 🔎
+<a href="https://www.linkedin.com/in/dmcezar" target="_blank" rel="noreferrer">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://discord.gg/Mudows#4861" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="discord"/></a>
+<a href="https://www.instagram.com/diego.mcezar/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="discord"/></a>
 </td>
 <td width="45%" valign="top">
 <h3 align="center">Languages and Tools:</h3>
