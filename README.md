@@ -10,20 +10,20 @@
 ### About Me
 _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in Digital Games from Anhanguera, and I'm currently pursuing a postgraduate degree in Business Intelligence with Big Data and AI, and a second postgraduate degree in full-stack development, both at CENES._
 
-### 💡 Current projects 💡
+### Current projects
 <a href="https://github.com/Mudows/habit-tracker/tree/main" target="_blank" rel="noreferrer">
   
 ![Static Badge](https://img.shields.io/badge/Habit_Tracker_Dashboard-In_Development-yellow?style=for-the-badge&logo=python&logoColor=blue)
 
 </a>
 
- ### 📚 Currently learning 📚
+ ### Currently learning
 <img align="center" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="hugo"/> <img align="center" src="https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=FFD43B" alt="pytest"/>
 
-### 📂 All of my projects are available at 📂
+### My projects are available at
 <a href="https://mudows.github.io/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/My%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="github"/></a>
 
-### 🔎 You can find me on 🔎
+### You can find me on
 <a href="https://www.linkedin.com/in/dmcezar" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://discord.gg/Mudows#4861" target="_blank">
