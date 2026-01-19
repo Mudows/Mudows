@@ -8,7 +8,7 @@
     <td width="55%" valign="top" align="center">
 
 ### About Me
-_I'm from Brazil, and I'm a Game Design instructor at Senac RJ. I have a Associate Degree in Digital Games from Anhanguera, and I'm currently pursuing a postgraduate degree in Business Intelligence with Big Data and AI, and a second postgraduate degree in full-stack development, both at CENES._
+_I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in Digital Games from Anhanguera, and I'm currently pursuing a postgraduate degree in Business Intelligence with Big Data and AI, and a second postgraduate degree in full-stack development, both at CENES._
 
 ### 💡 Current projects 💡
 <a href="https://github.com/Mudows/habit-tracker/tree/main" target="_blank" rel="noreferrer">
