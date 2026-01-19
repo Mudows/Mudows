@@ -13,7 +13,7 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in 
 ### 💡 Current projects 💡
 <a href="https://github.com/Mudows/habit-tracker/tree/main" target="_blank" rel="noreferrer">
   
-![Static Badge](https://img.shields.io/badge/Habit_Tracker_Dashboard-In_Development-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Habit_Tracker_Dashboard-In_Development-yellow?style=for-the-badge&logo=python&logoColor=blue)
 
 </a>
 
