@@ -72,7 +72,7 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in 
 </a>
 </p> 
 <hr/>
-      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&langs_count=6&theme=tokyonight&layout=compact" alt="Mudows :: Top Langs" /></p>
+      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&langs_count=8&theme=transparent&layout=donut" alt="Mudows :: Top Langs" /></p>
     </td>
   </tr>
   </table>
