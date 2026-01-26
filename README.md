@@ -19,7 +19,7 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in 
 ![Static Badge](https://img.shields.io/badge/🎲_Dungeon_Run-Backlog-orange?style=for-the-badge)
 
  ### Currently learning
-<img align="center" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="hugo"/> <img align="center" src="https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=FFD43B" alt="pytest"/>
+<img align="center" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="hugo"/> <img align="center" src="https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=FFD43B" alt="pytest"/> <img align="center" src="https://img.shields.io/badge/PyGame-blue?style=for-the-badge&logo=python&logoColor=FFD43B" alt="pytest"/>
 
 ### My projects are available at
 <a href="https://mudows.github.io/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/My%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="github"/></a>
@@ -73,7 +73,7 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in 
 </a>
 </p> 
 <hr/>
-      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&langs_count=8&theme=transparent&layout=donut" alt="Mudows :: Top Langs" /></p>
+      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudows&langs_count=6&theme=transparent&layout=donut" alt="Mudows :: Top Langs" /></p>
     </td>
   </tr>
   </table>
