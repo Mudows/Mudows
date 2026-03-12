@@ -45,7 +45,7 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in 
   <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 </p>
-<p align="center"><img src="https://github-readme-stats-one-puce-48.vercel.app/api/top-langs/?username=Mudows&langs_count=5&theme=transparent&layout=donut&hide_title=true&exclude_repo=mudows-creative-space,github-readme-stats,hugo-theme-introduction,azure-course" alt="Mudows :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-one-puce-48.vercel.app/api/top-langs/?username=Mudows&langs_count=5&theme=transparent&layout=donut&hide_title=true&exclude_repo=mudows-creative-space,github-readme-stats,hugo-theme-introduction,azure-course,Mudows" alt="Mudows :: Top Langs" /></p>
 <h3 align="center">Tools & Frameworks</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
