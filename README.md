@@ -11,12 +11,29 @@
 _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in Digital Games from Anhanguera, and I'm currently pursuing a postgraduate degree in Business Intelligence with Big Data and AI, and a second postgraduate degree in full-stack development, both at CENES._
 
 ### Current projects
+
+<!--
+Pre-Production: pink
+In Development: green
+Testing: yellow
+Done: Blue
+Delayed: red
+Paused: black
+Cancelled: gray
+https://github.com/Mudows/dungeon-delvers-game
+-->
 <a href="https://github.com/Mudows/habit-tracker/tree/main" target="_blank" rel="noreferrer">
   
-![Static Badge](https://img.shields.io/badge/📊_Habit_Tracker_Dashboard-In_Development-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/📊_Habit_Tracker_Dashboard-Paused-black?style=for-the-badge)
+</a>
+<a href="https://github.com/Mudows/dungeon-delvers-game" target="_blank" rel="noreferrer">
+
+![Static Badge](https://img.shields.io/badge/🎮_Dungeon_Delvers-In_Development-green?style=for-the-badge)
 </a>
 
-![Static Badge](https://img.shields.io/badge/🎲_Dungeon_Delvers-Drafting-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/🎲_Kingmaker_Manager-Pre_Production-pink?style=for-the-badge)
+
+
 
  ### Currently learning
 <img align="center" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="hugo"/> <img align="center" src="https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=FFD43B" alt="pytest"/> <img align="center" src="https://img.shields.io/badge/PyGame-blue?style=for-the-badge&logo=python&logoColor=FFD43B" alt="pytest"/>
