@@ -13,25 +13,24 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have a Associate Degree in 
 ### Current projects
 
 <!--
-Pre-Production: pink
-In Development: green
-Testing: yellow
-Done: Blue
-Delayed: red
-Paused: black
-Cancelled: gray
-https://github.com/Mudows/dungeon-delvers-game
+Pre-Production: 7F77DD
+In Development: 378ADD
+Testing: BA7517
+Done: 639922
+Delayed: D85A30
+Paused: 888780
+Cancelled: A32D2D
 -->
 <a href="https://github.com/Mudows/habit-tracker/tree/main" target="_blank" rel="noreferrer">
   
-![Static Badge](https://img.shields.io/badge/📊_Habit_Tracker_Dashboard-Paused-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/📊_Habit_Tracker_Dashboard-Paused-888780?style=for-the-badge)
 </a>
 <a href="https://github.com/Mudows/dungeon-delvers-game" target="_blank" rel="noreferrer">
 
-![Static Badge](https://img.shields.io/badge/🎮_Dungeon_Delvers-In_Development-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/🎮_Dungeon_Delvers-In_Development-378ADD?style=for-the-badge)
 </a>
 
-![Static Badge](https://img.shields.io/badge/🎲_Kingmaker_Manager-Pre_Production-pink?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/🎲_Kingmaker_Manager-Pre_Production-7F77DD?style=for-the-badge)
 
 
 
@@ -92,6 +91,10 @@ https://github.com/Mudows/dungeon-delvers-game
   <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
 </p>
-    </td>
+  
+  ###### Icons provided by <a href="https://skillicons.dev/" target="_blank" rel="noreferrer">skillicons.dev</a>. Badges provided by <a href="https://img.shields.io" target="_blank" rel="noreferrer">shields.io</a>.
+
+
+  </td>
   </tr>
   </table>
