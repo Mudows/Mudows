@@ -63,15 +63,19 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have an Associate Degree in
 ### Tools & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,bootstrap,django,docker,express,gamemakerstudio,git" alt="tools and frameworks" />
+  <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,cypress,django,docker,express" alt="tools and frameworks" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,illustrator,jest,jquery,mongodb,mysql,nodejs" alt="tools and frameworks" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,git,godot,illustrator,jest,jquery,mongodb" alt="tools and frameworks" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,photoshop,react,redux,tailwind,unity,vscode" alt="tools and frameworks" />
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs,obsidian,photoshop,react,redux,tailwind" alt="tools and frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,vscode" alt="tools and frameworks" />
 </p>
 
 ###### Icons by [skillicons.dev](https://skillicons.dev/) · Badges by [shields.io](https://img.shields.io)
