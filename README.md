@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=6000&color=080808&center=true&multiline=true&repeat=true&width=500&height=70&lines=Game+Designer+/+Front-End+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=6000&color=080808&center=true&multiline=true&repeat=true&width=620&height=70&lines=Game+Designer+|+Web+Developer+|+Instructor" alt="Typing SVG" />
 </p>
 
 <!--
@@ -21,23 +21,21 @@
     <td width="55%" valign="top" align="center">
 
 ### About Me
-_I'm a Game Design instructor at Senac RJ, Brazil. I have an Associate Degree in Digital Games from Anhanguera, and I'm currently pursuing a postgraduate degree in Business Intelligence with Big Data and AI, and a second postgraduate degree in full-stack development, both at CENES._
+_I'm a Game Design instructor and Front-End Web Developer based in Brazil. I work across game design, programming, web development, and interactive experiences, with a particular interest in game systems design and technology-driven projects._
+
+_I have an **Associate Degree in Digital Games** from Anhanguera, postgraduate in **Business Intelligence with Big Data and AI** at CENES, and I'm currently pursuing another postgraduate degree in **Full-stack Development**, also at CENES._
 
 ### Current Projects
 
 [![Habit Tracker](https://img.shields.io/badge/📊_Habit_Tracker_Dashboard-Paused-888780?style=for-the-badge)](https://github.com/Mudows/habit-tracker/tree/main)
 
-[![Dungeon Delvers](https://img.shields.io/badge/🎮_Dungeon_Delvers-In_Development-378ADD?style=for-the-badge)](https://github.com/Mudows/dungeon-delvers-game)
-
-![Kingmaker Manager](https://img.shields.io/badge/🎲_Kingmaker_Manager-Pre_Production-7F77DD?style=for-the-badge)
+[![Dungeon Delvers](https://img.shields.io/badge/🎮_Dungeon_Delvers-Pre_Production-7F77DD?style=for-the-badge)](https://github.com/Mudows/dungeon-delvers-game)
 
 ### Currently Learning
 
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=FFD43B)
-![PyGame](https://img.shields.io/badge/PyGame-blue?style=for-the-badge&logo=python&logoColor=FFD43B)
+[![Cypress](https://img.shields.io/badge/Cypress-04C38E?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 
-### My Projects
+### Portfolio
 
 [![GitHub Pages](https://img.shields.io/badge/My%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://mudows.github.io/)
 
@@ -57,7 +55,7 @@ _I'm a Game Design instructor at Senac RJ, Brazil. I have an Associate Degree in
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-puce-48.vercel.app/api/top-langs/?username=Mudows&langs_count=5&theme=transparent&layout=donut&hide_title=true&exclude_repo=mudows-creative-space,github-readme-stats,hugo-theme-introduction,azure-course,Mudows" alt="Mudows :: Top Langs" />
+  <img src="https://github-readme-stats-one-puce-48.vercel.app/api/top-langs/?username=Mudows&langs_count=5&theme=transparent&layout=donut&hide_title=true&exclude_repo=mudows-creative-space,github-readme-stats,hugo-theme-introduction,azure-course" alt="Mudows :: Top Langs" />
 </p>
 
 ### Tools & Frameworks
