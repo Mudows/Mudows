@@ -21,9 +21,12 @@
     <td width="55%" valign="top" align="center">
 
 ### About Me
-_I'm a Game Design instructor and Front-End Web Developer based in Brazil. I work across game design, programming, web development, and interactive experiences, with a particular interest in game systems design and technology-driven projects._
+_I'm a Game Design instructor and developer from Brazil, working across
+game design, web development, programming, and interactive experiences._
 
-_I have an **Associate Degree in Digital Games** from Anhanguera, postgraduate in **Business Intelligence with Big Data and AI** at CENES, and I'm currently pursuing another postgraduate degree in **Full-stack Development**, also at CENES._
+_I have an Associate Degree in Digital Games from Anhanguera and
+postgraduate studies in Business Intelligence, Big Data & AI.
+I'm currently pursuing a postgraduate degree in Full-stack Development._
 
 ### Current Projects
 
